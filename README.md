@@ -1,2 +1,4 @@
-Mother Earth Gardens Case Study 
-case study for web dev
+# Mother Earth Gardens Case Study 
+> Case Study of a Design System for Web Development
+
+##
