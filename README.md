@@ -1,2 +1,2 @@
-# mother-earth-gardens-case-study
+Mother Earth Gardens Case Study 
 case study for web dev
