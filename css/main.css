@@ -43,7 +43,7 @@ ul {
     list-style-type: none;
 }
 
-li {
+.top-nav-items {
   display: inline-block;
   color: grey;
   text-align: center;
