@@ -98,6 +98,6 @@ hr {
       font-size: 16pt;
   }
 
-  .body-copy {
-   
+  .top-body {
+    text-align: justify;
   }
