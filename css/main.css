@@ -96,11 +96,12 @@ hr {
     font-family: 'Cabin', sans-serif;
     font-size: 25pt;
     letter-spacing: 3pt;
+    padding: 1rem;
   }
 
   h2 {
       font-size: 16pt;
-      letter-spacing: 1pt;
+      letter-spacing: .5pt;
   }
 
   .top-body {
