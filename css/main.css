@@ -50,6 +50,7 @@ ul {
 
 .ol-items {
     color: var(--green);
+    font-family: 'Cabin Semi Bold', sans-serif;
 }
 
 .top-nav-items {
