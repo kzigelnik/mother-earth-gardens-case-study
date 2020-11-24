@@ -89,3 +89,7 @@ hr {
       color: var(--green);
       margin: auto;
   }
+
+  h2 {
+      size: 16pt;
+  }
