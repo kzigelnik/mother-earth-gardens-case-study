@@ -48,6 +48,10 @@ ul {
     list-style-type: none;
 }
 
+.ol-items {
+    color: var(--green);
+}
+
 .top-nav-items {
   display: inline-block;
   color: grey;
