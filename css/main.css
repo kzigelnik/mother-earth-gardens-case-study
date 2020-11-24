@@ -1,5 +1,10 @@
 :root {
     --font-sans-serif: 'Questrial', sans-serif;
+    --green: #b4b941;
+    --grey: #474647;
+    --orange: #e38d3b;
+    --teal: #53929a;
+    --maroon: #723929;
 
 }
 
@@ -73,4 +78,9 @@ hr {
    max-width: 1200px;
     border-style: inset;
     border-width: 1px;
+  }
+
+  h1,
+  h2 {
+      color: var(--green);
   }
