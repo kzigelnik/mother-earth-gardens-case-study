@@ -50,7 +50,7 @@ ul {
 
 .ol-items {
     color: var(--green);
-    font-family: 'Cabin Semi Bold', sans-serif;
+    font-family: 'Cabin', sans-serif;
 }
 
 .top-nav-items {
@@ -104,6 +104,6 @@ hr {
   .top-body {
     text-align: justify;
     margin-right: 17rem;
-  margin-left: 17rem;
-  line-height: 22px;
+    margin-left: 17rem;
+    line-height: 22px;
   }
