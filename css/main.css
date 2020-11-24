@@ -95,12 +95,12 @@ hr {
   h1{
     font-family: 'Cabin', sans-serif;
     font-size: 25pt;
-    letter-spacing: 20pt;
+    letter-spacing: 5pt;
   }
 
   h2 {
       font-size: 16pt;
-      letter-spacing: 10pt;
+      letter-spacing: 5pt;
   }
 
   .top-body {
