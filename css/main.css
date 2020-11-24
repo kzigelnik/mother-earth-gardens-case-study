@@ -89,6 +89,7 @@ hr {
   h2 {
       color: var(--green);
       margin: auto;
+      text-align: center;
   }
 
   h1{
