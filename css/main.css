@@ -113,9 +113,9 @@ hr {
   .buttons {
       display: inline-flex;
       max-width: 300px;
+      justify-content: center;
   }
 
   .button_section {
-    justify-content: center;
     margin: auto;
   }
