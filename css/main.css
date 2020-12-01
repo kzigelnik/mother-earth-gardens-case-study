@@ -112,4 +112,5 @@ hr {
 
   .buttons {
       display: flex;
+      max-width: 609pt;
   }
