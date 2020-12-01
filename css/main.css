@@ -114,6 +114,8 @@ hr {
       display: inline-flex;
       max-width: 300px;
       justify-content: center;
+      float:left;
+      position:relative;
   }
 
   .button_section {
