@@ -112,5 +112,6 @@ hr {
 
   .buttons {
       display: inline-flex;
-      max-width: 609pt;
+      max-width: 300pt;
+      max-height: ;
   }
