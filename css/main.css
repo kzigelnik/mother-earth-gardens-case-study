@@ -109,3 +109,7 @@ hr {
   margin-left: 17rem;
   line-height: 22px;
   }
+
+  .buttons {
+      display: flex;
+  }
