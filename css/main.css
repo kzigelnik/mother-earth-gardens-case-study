@@ -30,7 +30,8 @@ p {
 
 .store_info {
     text-align: center;
-    padding: 3rem;
+    padding-left: 6rem;
+    padding-right: 6rem;
 }
 
 .body-title{
@@ -126,4 +127,17 @@ hr {
   .button_section {
     margin: auto;
     text-align: center;
+  }
+
+  .hours{
+      color: var(--green);
+      text-align: center;
+  }
+
+  .hours_list {
+      text-align: center;
+      color: var(--grey);
+      font-size: 12pt;
+      font-family: 'Cabin', sans-serif;
+      line-height: 18pt;
   }
