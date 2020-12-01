@@ -28,6 +28,10 @@ p {
     justify-content: left;
 }
 
+.store_info {
+    text-align: center;
+}
+
 .body-title{
     text-transform: uppercase;
     color: #b4b941;
