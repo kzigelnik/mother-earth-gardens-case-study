@@ -112,7 +112,7 @@ hr {
 
   .buttons {
       display: inline-flex;
-      max-width: 310px;
+      max-width: 330px;
       justify-content: center;
       padding: .5rem;
      
