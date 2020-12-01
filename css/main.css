@@ -113,5 +113,5 @@ hr {
   .buttons {
       display: inline-flex;
       max-width: 300px;
-      max-height: ;
+      align-content: center;
   }
