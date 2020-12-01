@@ -114,6 +114,7 @@ hr {
       display: inline-flex;
       max-width: 300px;
       justify-content: center;
+      padding: .5rem;
      
   }
 
