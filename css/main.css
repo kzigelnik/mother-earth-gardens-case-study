@@ -111,6 +111,6 @@ hr {
   }
 
   .buttons {
-      display: inline-block;
+      display: inline-flex;
       max-width: 609pt;
   }
