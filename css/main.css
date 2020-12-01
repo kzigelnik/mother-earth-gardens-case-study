@@ -115,7 +115,7 @@ hr {
       max-width: 300px;
       justify-content: center;
       float:center;
-      position:relative;
+      position:center;
   }
 
   .button_section {
