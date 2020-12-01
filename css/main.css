@@ -24,8 +24,8 @@ p {
     color: grey;
     font-size: 12pt;
     text-align: center;
-    padding-right: 3rem
-    ;
+    padding-right: 3rem;
+    justify-content: left;
 }
 
 .body-title{
@@ -104,7 +104,7 @@ hr {
       letter-spacing: .5pt;
   }
 
-  .top-body {
+  .top_body {
     margin-right: 17rem;
   margin-left: 17rem;
   line-height: 22px;
