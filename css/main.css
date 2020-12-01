@@ -113,5 +113,8 @@ hr {
   .buttons {
       display: inline-flex;
       max-width: 300px;
-      align-content: center;
+  }
+
+  .button_section {
+    align-content: center;
   }
