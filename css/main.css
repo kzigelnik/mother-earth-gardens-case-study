@@ -114,7 +114,7 @@ hr {
       display: inline-flex;
       max-width: 300px;
       justify-content: center;
-      float:left;
+      float:center;
       position:relative;
   }
 
