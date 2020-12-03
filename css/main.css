@@ -61,7 +61,7 @@ ul {
 
 .top-nav-items {
   display: inline-block;
-  color: grey;
+  color: rgb(82, 82, 82);
   text-align: center;
   padding: 16px;
   text-decoration: none;
@@ -140,4 +140,52 @@ hr {
       font-size: 12pt;
       font-family: 'Cabin', sans-serif;
       line-height: 18pt;
+  }
+
+  .maps_section {
+    margin: auto;
+    text-align: center;
+    display: inline-flex;
+    justify-content: center;
+    padding: .5rem;
+    margin-right: 15rem;
+    margin-left: 15rem;
+  }
+
+  .maps {
+    
+    max-width: 480px;
+    max-height: 180px;
+    
+
+  }
+
+  .location {
+      text-align: left;
+      color: var(--grey);
+      font-size: 10pt;
+      font-family: 'Cabin', sans-serif;
+      line-height: 18pt;
+  }
+
+  .location-sections {
+    flex-direction: column;
+      justify-content: center;
+      padding: 1rem;
+      margin: auto;
+     
+  }
+
+  .fa {
+      color: var(--grey);
+      padding: 20px;
+      font-size: 30px;
+      width: 40px;
+      text-align: right;
+      text-decoration: none;
+      display: flex-end;
+  }
+  
+  .social-section {
+      text-align: right;
   }
