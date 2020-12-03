@@ -28,10 +28,14 @@ p {
     justify-content: left;
 }
 
+.logo {
+    padding-bottom: 2rem;
+}
+
 .store_info {
     text-align: center;
-    padding-left: 6rem;
-    padding-right: 6rem;
+    padding-left: 7.5rem;
+    padding-right: 7.5rem;
 }
 
 .body-title{
@@ -73,7 +77,7 @@ ul {
 
 .top-nav {
     display: table;  
-	margin: 0 auto;
+    margin: 0 auto;
 }
 
 img {
@@ -89,6 +93,13 @@ hr {
    max-width: 1200px;
     border-style: inset;
     border-width: 1px;
+    background-color:rgb(231, 231, 231);
+    height: 1px;
+    border: none;
+  }
+
+  .hero {
+      padding-bottom: 5rem;
   }
 
   h1,
@@ -129,9 +140,18 @@ hr {
     text-align: center;
   }
 
+  .store_info_section {
+    padding-top: 5rem;
+  }
+
   .hours{
       color: var(--green);
       text-align: center;
+      padding-top: 5rem;
+  }
+
+  .hours_list_section {
+    padding-bottom: 5rem;
   }
 
   .hours_list {
