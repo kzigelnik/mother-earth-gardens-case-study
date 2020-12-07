@@ -19,7 +19,7 @@ body {
     margin: auto;
 }
 
-p {
+p, h5 {
     font-family: 'Cabin', sans-serif;
     color: grey;
     font-size: 12pt;
